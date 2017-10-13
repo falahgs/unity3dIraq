@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="remote7" size="5.000000 2.812500" />
+    <ImageTarget name="remote6" size="5.000000 2.812500" />
+    <ImageTarget name="remote5" size="5.000000 2.812500" />
+    <ImageTarget name="remote4" size="5.000000 2.812500" />
+    <ImageTarget name="remote3" size="5.000000 2.812500" />
+    <ImageTarget name="remote2" size="5.000000 2.812500" />
+    <ImageTarget name="remote1" size="5.000000 2.812500" />
+  </Tracking>
+</QCARConfig>
